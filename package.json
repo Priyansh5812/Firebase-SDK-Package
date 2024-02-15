@@ -1,0 +1,21 @@
+{
+  "name": "com.mythyaverse.firebase_sdk_vr",
+  "version": "0.0.0",
+  "displayName": "Firebase SDK",
+  "description": "This firebase SDK contains set of functions using REST API in order to interact with Firebase and Google Cloud Services. Best use this SDK while developing for a platform which is not supported by official Google SDKs",
+  "unity": "2022.2",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
